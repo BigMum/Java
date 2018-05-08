@@ -17,3 +17,25 @@ myEclipse导入新的jar包
 equeals() 和 equalsignorecase()区别
 	后者忽略大小写
 
+java的短路 
+	即在前两个已经出结果的情况下不必考虑第三个&&
+
+public class Logic{
+	public static void main(String[] args){
+		int a = 1;
+		int b = 1;
+		if(a<b&&b<a++){
+			System.out.println(a>b&true);
+			System.out.println(a);
+			System.out.println("this's in my control");
+		}
+		else{
+			System.out.println("that's impossible");
+			System.out.println(a);
+		}
+
+	}
+}
+此处由于a<b为假,所以后面的b<a++不会执行,此处的结果为 
+that's impossible
+1
