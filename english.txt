@@ -1,7 +1,11 @@
-overload  		ÖØÔØ
-argument  		²ÎÊı
-encapsulate 		·â×°
-invoke			µ÷ÓÃ
-scope			·¶Î§
-assignment 		·ÖÅä£¬¸³Öµ
-specify 		Ö¸¶¨
+ï»¿overload  		é‡è½½
+argument  		å‚æ•°
+encapsulate 		å°è£…
+invoke			è°ƒç”¨
+scope			èŒƒå›´
+assignment 		åˆ†é…ï¼Œèµ‹å€¼
+specify 		æŒ‡å®š
+indicate		æ ‡è¯†ï¼Œå®šä¹‰
+side effect(		å‰¯ä½œç”¨
+	consume input, produce output, change entriey in an array, or otherwise change the state 
+	of the system)
