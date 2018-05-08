@@ -1,0 +1,7 @@
+overload  		重载
+argument  		参数
+encapsulate 		封装
+invoke			调用
+scope			范围
+assignment 		分配，赋值
+specify 		指定
