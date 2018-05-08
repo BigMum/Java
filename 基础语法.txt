@@ -16,3 +16,4 @@ myEclipse导入新的jar包
 
 equeals() 和 equalsignorecase()区别
 	后者忽略大小写
+
