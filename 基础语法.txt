@@ -1,4 +1,4 @@
-java八大数据类型 
+﻿java八大数据类型 
 	byte short int long float double boolean char
 
 	
@@ -13,3 +13,6 @@ myEclipse导入新的jar包
 引用java自带的加密算法
 	导入jar包 org.apache.commons.codec_1.6.0.v201305230611.jar
 	
+
+equeals() 和 equalsignorecase()区别
+	后者忽略大小写
