@@ -7,7 +7,7 @@
 > specify &ensp;指定<br>
 > indicate &ensp;标识，定义<br>
 > side effect &ensp;副作用<br>
-&ensp;&ensp;&ensp;consume input, produce output, change entriey in an array, or otherwise change the state of the system <br>
+	consume input, produce output, change entriey in an array, or otherwise change the state of the system
 > recursion &ensp;递归<br>
 > call &ensp;调用<br>
 > 本体图片放在.md的同一级文件夹
