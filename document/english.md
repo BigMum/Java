@@ -10,5 +10,4 @@
 &ensp;&ensp;&ensp;consume input, produce output, change entriey in an array, or otherwise change the state of the system <br>
 > recursion &ensp;递归<br>
 > call &ensp;调用<br>
-
-![测试](2.png)
+> 本体图片放在.md的同一级文件夹
