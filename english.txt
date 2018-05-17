@@ -15,4 +15,4 @@ conditional		条件
 subproblem		子问题
 overlap			交集
 inefficient 		低效率的
-disjoint		不想交的
+disjoint	11	不想交的
